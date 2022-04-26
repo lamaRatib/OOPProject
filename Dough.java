@@ -10,7 +10,7 @@ package oopproject;
  * @author USER
  */
 public class Dough {
-
+    int u;
     public Dough() {
     }
     
